@@ -1,0 +1,6 @@
+						How to play:
+
+1. use the W, A, S, D to move the tanker player 1 and 2 alternately
+2. The first player will be given the opportunity to shoot the first bullet certain radius, hereinafter player 2 will run after the player one shot
+3. When one of the first player, the screen will be black opponent for the tanks was not detected
+4. if one payer hit the tanker opponent is declared the player wins and the game ends

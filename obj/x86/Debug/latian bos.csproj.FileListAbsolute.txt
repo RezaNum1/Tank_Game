@@ -1,0 +1,22 @@
+c:\users\user\documents\visual studio 2010\Projects\latian bos\latian bos\bin\Debug\latian bos.exe
+c:\users\user\documents\visual studio 2010\Projects\latian bos\latian bos\bin\Debug\latian bos.pdb
+c:\users\user\documents\visual studio 2010\Projects\latian bos\latian bos\obj\x86\Debug\latian bos.exe
+c:\users\user\documents\visual studio 2010\Projects\latian bos\latian bos\obj\x86\Debug\latian bos.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\latian bos\latian bos\obj\x86\Debug\latian bos.csprojResolveAssemblyReference.cache
+C:\Users\nanda\Documents\Visual Studio 2012\Projects\latian bos\latian bos\obj\x86\Debug\latian bos.exe
+C:\Users\nanda\Documents\Visual Studio 2012\Projects\latian bos\latian bos\obj\x86\Debug\latian bos.pdb
+C:\Users\nanda\Documents\Visual Studio 2012\Projects\latian bos\latian bos\bin\Debug\latian bos.exe
+C:\Users\nanda\Documents\Visual Studio 2012\Projects\latian bos\latian bos\bin\Debug\latian bos.pdb
+C:\Users\nanda\Documents\Visual Studio 2012\Projects\latian bos\latian bos\obj\x86\Debug\latian bos.csprojResolveAssemblyReference.cache
+F:\latian bos\latian bos\obj\x86\Debug\latian bos.exe
+F:\latian bos\latian bos\obj\x86\Debug\latian bos.pdb
+C:\Users\nanda\Desktop\latian bos\latian bos\obj\x86\Debug\latian bos.exe
+C:\Users\nanda\Desktop\latian bos\latian bos\obj\x86\Debug\latian bos.pdb
+C:\Users\nanda\Desktop\latian bos\latian bos\bin\Debug\latian bos.exe
+C:\Users\nanda\Desktop\latian bos\latian bos\bin\Debug\latian bos.pdb
+C:\Users\nanda\Desktop\latian bos\latian bos\obj\x86\Debug\latian bos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\TANK\latian bos\obj\x86\Debug\latian bos.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\TANK\latian bos\obj\x86\Debug\latian bos.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\TANK\latian bos\bin\Debug\latian bos.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\TANK\latian bos\bin\Debug\latian bos.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\TANK\latian bos\obj\x86\Debug\latian bos.csprojResolveAssemblyReference.cache
